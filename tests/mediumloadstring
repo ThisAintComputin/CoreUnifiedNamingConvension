@@ -1,0 +1,21 @@
+if 1>2 then
+  if 2<3 then
+    return nil
+  else
+    return nil
+  end
+else
+  if 3<4 then
+    if 12213<523424 then
+      if 12312>432423 then
+        return nil
+      else
+        return true
+      end
+    else
+      return nil
+    end
+  else
+    return nil
+  end
+end
